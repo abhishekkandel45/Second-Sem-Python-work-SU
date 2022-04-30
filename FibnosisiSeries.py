@@ -5,7 +5,7 @@ n1=0
 n2=1
 count=0
 if a<=0:
-    print("Please enter a positive integer")
+    print("Please enter a positive integer")                                                          
 elif a==1:
     print(n1)
     print
