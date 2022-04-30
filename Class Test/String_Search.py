@@ -1,5 +1,6 @@
 #Write a program to search the Given String from the list of strings.
-a=["Hello","World","Programming","is","fun"]
+a=["Hello","World","Programming","is",#Write a program to search the Given String from the list of strings.
+"fun"]
 b=input("Enter the string to be searched: ")
 if b in a:
     print ("The string is present in the list")
