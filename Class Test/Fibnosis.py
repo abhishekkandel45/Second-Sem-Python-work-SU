@@ -1,4 +1,4 @@
-#write a python Program to find the Fibonacci series upto n terms using interation
+#write a python Program to find the Fibonacci series upto n terms
 a= int(input("Enter the number of terms"))
 b=0
 c=1
