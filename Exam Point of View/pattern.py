@@ -1,13 +1,15 @@
 # Write a python program to create following pattern
-#1
+#1 
 #1 2
-#1 2 1
-#1 2 1 2
-#1 2 1 2 1
-#1 2 1 2
-#1 2 1
+#1 2 3
+#1 2 3 4
+#1 2 3 4 5
+#1 2 3 4 5
+#1 2 3 4
+#1 2 3
 #1 2
-#1
+#1 
+
 s=int(input("Enter the number of rows: "))
 for i in range(s):
     for j in range(i+1):
