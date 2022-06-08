@@ -4,7 +4,7 @@
 # Capital Gain tax is 7.5% of profit made if the invester holds the share for less than 1 year and 5% of profit made if the invester holds the share for more than 1 year
 # DP charge is fixed for both personal and institutional investors and is Rs.25
 
-
+import datetime
 numShares = int(input("Enter the number of shares: "))
 ShareCode = input("Enter the share code: ")
 BuyinPrice = float(input("Enter the buyin price: "))
