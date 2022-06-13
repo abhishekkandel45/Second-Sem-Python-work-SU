@@ -8,3 +8,4 @@ import string
 passKey = string.ascii_letters + string.digits + string.punctuation
 password = ''.join(random.choice(passKey) for i in range(8))
 print(password)
+1
