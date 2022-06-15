@@ -1,1 +1,1 @@
-My name is Abhishek Kandel.
+Hello WOrld !& "C:/Users/Abhishek Kandel/AppData/Local/Programs/Python/Python310/python.exe" "i:/GitHub/Second-Sem-Python-work-SU/Lab Assignment/Week11/exp1.py"
