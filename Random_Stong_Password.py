@@ -6,7 +6,6 @@
 import random
 import string
 a=int(input("Enter the number of Chracter in the password:"))
-
 passKey = string.ascii_letters + string.digits + string.punctuation
 password = ''.join(random.choice(passKey) for i in range(a))
 print(password)
