@@ -39,12 +39,13 @@ for i in range(n):
     else:
         bonus = data[i][2] * 3.5
     data[i].append(bonus)
-#Printing the data
+#Printing the data in a tabular format using string formatting with Salutation
 print("                  ALPHA CO. LTD.")
 print("          TABLE OF BONUS IN DEC. 2021 ")
-print(" NO.  NAME        SERVICE   SALARY   BONUS")
+print(" ")
+print("NO.  NAME        SERVICE   SALARY   BONUS")
 print("-------------------------------------------")
 for i in range(n):
-    #Printing the data in a tabular format using string formatting with Salutation
-    print("{0:3}  MR. {1:10} {2:8} {3:8} {4:8}".format(i+1, data[i][0], data[i][1], data[i][2], data[i][3]))
-    
+    print(f"{i+1}   MR. {data[i][0]}        {data[i][1]}         {data[i][2]}      {data[i][3]}")
+
+
