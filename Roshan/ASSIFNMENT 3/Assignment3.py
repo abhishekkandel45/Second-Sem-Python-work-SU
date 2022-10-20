@@ -3,13 +3,22 @@
 # File name:                      
 # Program Description: This is a program that will generate the password for the user as per the given criteria.
 
-# 1. Ask the user to enter
-words = input("Enter 2 or more words: ")
-# 2. If they don’t enter at least 2 words, Condition is Checked using Space as a delimiter
-if len(words.split()) < 2:
-    print("Error: You did not enter 2 or more words!")
-    words = input("Enter 2 or more words: ")
-# 3. Using a for loop, create a password from the user’s input using the following scheme:
+#taking the input from the user
+words = input("Enter the words you want to use in your password: ")
+#Initializing Count=0 for counting the number of words
+count=0
+#While loop for Prompting the user to enter the two words or more than two words if the user enters less than two words
+while count<1:
+    for i in words:
+        if i==" ": 
+            count+=1
+    #if the number of spaces is less than 1 then the count will be 0 and the while loop will run again and again
+    if count<1:
+        count=0
+        print("You must enter two or more words")
+        words = input("Enter the words you want to use in your password: ")
+
+# Using a for loop, create a password from the user’s input using the following scheme:
 password = ""
 for i in words:
     if i == " ":
@@ -34,5 +43,3 @@ for i in words:
         password += i
 # 4. Finally, display the password to the user
 print("Your password is: ", password)
-
-
