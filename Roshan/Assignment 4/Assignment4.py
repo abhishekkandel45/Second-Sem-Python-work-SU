@@ -222,7 +222,6 @@ def displayClassOptions():
 
 # Function determineRace
 def determineRace(raceChoice):
-    #Determining Name, race, class from https://raw.githubusercontent.com/janelleshane/DnD-characters/master/DnD_characters_May2018.txt is downloaded and stored in a file
     #To get user input for choosing
     raceChoice = int(input())
     # Validating user input from 1 to 9
@@ -231,7 +230,7 @@ def determineRace(raceChoice):
         determineRace()
     else:
         #To open file
-        infile = open("DnD_characters_May2018.txt", "r")
+        infile = open("characters.txt", "r")
         #To read file
         line = infile.readline()
         #To read line by line
@@ -302,7 +301,7 @@ def determineClass(classChoice):
         determineClass()
     else:
         #To open file
-        infile = open("DnD_characters_May2018.txt", "r")
+        infile = open("characters.txt", "r")
         #To read file
         line = infile.readline()
         #To read line by line
@@ -370,10 +369,16 @@ def displayCharacter(raceChoice, classChoice):
     print()
     print("============================================")
     #printinning the character details
-    print(determineRace(raceChoice), "/", determineClass(classChoice))
+    print(determineRace(raceChoice), "/", determineClass(classChoice), "Names")
     print("============================================")
-    #prininng the characters name if it maches both  race and choice
-
+    #if race and class belongs to same category then print character
+    if determineRace(raceChoice) == determineClass(classChoice):
+        print("- ", determineRace(raceChoice));
+        exit()
+    else:
+        print("-No Names Found-")
+    print()    
+    print("><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><")
 
 
 
