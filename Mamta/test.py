@@ -1,4 +1,4 @@
-import numpy as np
+ import numpy as np
 #Ask user the total size of array
 n=int(input('Enter n:'))
 #declaring 1D arrays
