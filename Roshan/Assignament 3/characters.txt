@@ -1,0 +1,364 @@
+Nathandriel Kelemaneril,Elf,Cleric
+Bubbles,Gnome,Druid
+Vallys Termina,Elf,Wizard
+Ven,Human,Paladin
+Linxakasendalor Surina,Dragonborn,Paladin
+Tempus,Tiefling,Paladin
+Melody,Tiefling,Bard
+Arfelesa Tunnelcrusher,Dwarf,Paladin
+Milo Underhill,Halfling,Rogue
+Aviana Blu,Elf,Cleric
+Spixi Helfyx,Gnome,Druid
+Elinee Renwick,Human,Wizard
+Azagrok Gomal,Dwarf,Cleric
+Coin,Tiefling,Bard
+Hector De Olivares,Human,Paladin
+Father Bairn,Human,Cleric
+Kila Starpalm,Elf,Wizard
+Rurik,Orc,Rogue
+Dyne,Human,Barbarian
+Moonflower,Elf,Cleric
+Avant Bard,Halfling,Bard
+Maratris Carter,Human,Rogue
+Vulwyn,Elf,Ranger
+Nikolas Sundergard,Human,Fighter
+Adamas,Tiefling,Wizard
+Cornelia Lodethorne,Dwarf,Cleric
+George Hucky Lucky,Dragonborn,Bard
+Tornen Mon'Zsa,Human,Wizard
+Adelys,Halfling,Bard
+Corvi,Elf,Rogue
+Ragnar The Inscrutable,Human,Cleric
+Nim,Gnome,Wizard
+Badger Brambleoak,Halfling,Druid
+Feeba,Tiefling,Wizard
+Dyne,Human,Barbarian
+Hemlock,Human,Druid
+Taefa,Tiefling,Bard
+Garrick Deathstrike,Human,Fighter
+Claudia Kajara,Dragonborn,Bard
+Kyiralya,Elf,Bard
+Bihu,Dragonborn,Rogue
+Rukhl Battlespoon,Human,Barbarian
+Tel Vos,Elf,Ranger
+Melicus Galennius,Human,Cleric
+Melody Callathas,Tiefling,Bard
+Silaqui Amakiir Of Nothnoril,Elf,Druid
+Sorin,Human,Rogue
+Isara,Halfling,Druid
+Sigurd,Halfling,Rogue
+Moad,Dwarf,Rogue
+Northmint,Gnome,Wizard
+Kailua,Human,Druid
+Coldsnack,Human,Fighter
+Happith Cowel,Halfling,Rogue
+Roerdin Of Fireforge,Dwarf,Fighter
+Rakden,Tiefling,Bard
+Darby Day,Human,Bard
+Darva,Dragonborn,Cleric
+Francis Jean Saint-Antoine,Human,Bard
+Livingstone,Dwarf,Paladin
+Mikki Nimaj,Gnome,Barbarian 
+Abandon,Tiefling,Wizard
+Marion,Human,Rogue
+Carly Slay,Human,Rogue
+Stuw,Gnome,Wizard
+Lara Delareina,Elf,Cleric
+Tholannan Bearcharger,Elf,Cleric
+Goddard,Gnome,Fighter
+Hardrick,Dwarf,Paladin
+Spaghe,Elf,Bard
+Samira,Goblin,Druid
+Zaigan,Human,Paladin
+J'Soud Flaskguard,Dwarf,Bard
+Morrgulis Minx,Halfling,Rogue
+Sir Salem,Dragonborn,Paladin
+Nim,Human,Fighter
+Meia Areon,Elf,Ranger
+Thalassa,Human,Druid
+Ava Songsteel,Human,Fighter
+Dak,Halfling,Cleric
+Detox Zephyrr,Dwarf,Rogue
+Aghren Stonetotem,Dwarf,Druid
+Bliss,Tiefling,Bard
+Langfyr,Human,Barbarian
+Zuldak,Elf,Paladin
+Aldric Thredon,Human,Bard
+Horric Seaskipper,Halfling,Ranger
+Elspeth Bonewing,Elf,Wizard
+Rotundo Potbelly,Halfling,Fighter
+Taysikuu,Human,Wizard
+Mohr Deeperdown,Dwarf,Fighter
+Rurik Ungart,Dwarf,Ranger
+Satin D'Lancur,Human,Bard
+Girron,Elf,Wizard
+Shafarn,Dragonborn,Cleric
+Iona Dis,Dwarf,Barbarian
+Danalog,Elf,Wizard
+Kyri,Halfling,Wizard
+Skittles,Dragonborn,Cleric
+Gornaka,Orc,Bard
+Tumblebee,Halfling,Barbarian
+Shore Freelight,Human,Rogue
+Dario Nardozzi,Human,Paladin
+Tala,Elf,Barbarian
+Nardu Miri-Miri,Human,Druid
+Ashael Bladeshifter,Human,Ranger
+Regalo The Gold,Dragonborn,Fighter
+Trean Maeglan,Elf,Fighter
+Rian Ainsley,Human,Rogue
+Helimene,Human,Cleric
+Constanze Von Eisenbrandt,Human,Cleric
+Emery Renwood,Human,Bard
+Neige,Halfling,Barbarian
+Bambam Stonebreaker,Dwarf,Barbarian
+Crystal Stonebreaker,Dwarf,Bard
+Waldorf,Gnome,Wizard
+Ven Ragara,Human,Bard
+Guinness Stonebreaker,Dwarf,Rogue
+Amrod,Elf,Wizard
+Tumenburilgi,Human,Barbarian
+Anvard,Human,Fighter
+Jax,Human,Fighter
+Vynn Starcaller,Human,Rogue
+Jace Von Broheim,Human,Barbarian
+Isatora Ketlin,Halfling,Cleric
+Chriton Powers,Human,Wizard
+Sugartits,Elf,Paladin
+Great Thoan,Halfling,Cleric
+Jaerill Mie,Human,Cleric
+Stenson Steelstaff,Dwarf,Wizard
+Golnaz,Human,Ranger
+Maximilian Ferdinand Valentine,Human,Fighter
+Oiki Halcyon,Human,Fighter
+William Waltz,Human,Bard
+Barnaby,Human,Barbarian
+Hedva,Gnome,Bard
+Brian,Human,Wizard
+Hjallmar Borhammer,Dwarf,Fighter
+Marco Antonio,Human,Rogue
+Vikram Whitehammer,Dwarf,Fighter
+Tesni Cadwaladr,Human,Wizard
+Itineran Carth,Human,Bard
+Dimble Gimble Stumbleduck,Gnome,Bard
+Prill Trufflescrub,Halfling,Rogue
+Luca S'Letthk,Human,Rogue
+Alwynn,Halfling,Bard
+Thorn,Human,Cleric
+Saida,Elf,Paladin
+Alek,Human,Rogue
+Kimura Verdigris,Human,Fighter
+Celeste Farglen,Human,Paladin
+Korendil Xiloscient,Elf,Ranger
+Cael Of Numeria,Human,Ranger
+Tim,Human,Druid
+Merle Highchurch,Dwarf,Cleric
+Sam,Gnome,Rogue
+Magnus Burnsides,Human,Fighter
+Sinead,Halfling,Bard
+Ginnifer Hagerton,Human,Bard 
+Boborio,Gnome,Wizard
+Penance,Dragonborn,Paladin
+Aderyn Lithari,Tiefling,Paladin
+Panamin,Halfling,Bard
+Tim Dibble,Halfling,Druid
+Ad'Houm,Dragonborn,Cleric
+Zandri Sonsalor,Dragonborn,Rogue
+Mara Hollins,Human,Cleric
+Riggs Murdoon,Gnome,Barbarian
+Elaine,Elf,Druid
+Hugh,Elf,Cleric
+Drendle Drang,Human,Rogue
+Adewnn Mithavail,Elf,Druid
+Har Veris,Dragonborn,Bard
+Felix Flint,Human,Fighter
+Keirum,Human,Wizard
+Da'Kal Fleetfoot,Halfling,Rogue
+Chrysanthemum Van Messing,Dragonborn,Fighter
+Arabella Windrock,Human,Ranger
+Blackwell,Halfling,Cleric
+Cecil,Dragonborn,Rogue
+Dove Holt,Dragonborn,Fighter
+Kazma,Gnome,Rogue
+Steindreg,Dwarf,Cleric
+Loark Stormborn,Dwarf,Cleric
+Vilya Stormborn,Dwarf,Cleric
+Zaht Theris,Elf,Rogue
+Thalia Crane,Human,Bard
+Quirk,Tiefling,Wizard
+Saoirse Llewellyn,Human,Druid
+Mita,Elf,Fighter
+Fenwin Pennywhistle ,Gnome,Bard
+Thorin Ironheart,Dwarf,Fighter
+Gabbylittle Gillywook,Gnome,Wizard
+Sacklebinky Hunklepunk,Gnome,Wizard
+Maude Moonwhisper,Elf,Ranger
+Urist Besmarkebar,Dwarf,Cleric
+Callie Thornhill,Halfling,Paladin
+Cael Flameanvil,Dwarf,Cleric
+Saberwulf,Human,Fighter
+Tatterwyn,Gnome,Cleric
+Tacco,Elf,Rogue
+Juneaux Brightmoon,Human,Cleric
+Yanaba Widowmaker,Human,Barbarian
+Jaxon,Human,Rogue
+Aleyna Serrinsdottir,Human,Druid
+Belladonna Shadowpine,Human,Bard
+Alton,Elf,Rogue
+Lorelei Silvertree,Elf,Fighter
+Kylara Forgedaughter,Human,Paladin
+Shamorn Ardnyl,Dragonborn,Druid
+Elyan,Human,Paladin
+Tirga,Gnome,Wizard
+Evgeni,Human,Cleric
+Aster Tourmaline,Dwarf,Druid
+Lis Delan,Human,Rogue
+Layla,Halfling,Druid
+Solomon Dunwich,Human,Barbarian
+Grunyar Faderheim,Dwarf,Cleric
+Grek,Dragonborn,Barbarian
+Dimzad,Dwarf,Barbarian
+Abragian,Human,Cleric
+Nytesong,Elf,Druid
+Bazoril Stoneheart,Dwarf,Cleric
+Tassadar Silvanus,Elf,Wizard
+Zane Zander,Human,Fighter
+Mavre,Dragonborn,Paladin
+Grunkle Longtoof,Goblin,Rogue
+Valarius,Human,Wizard
+Alasdair Galanodel Holimion,Elf,Rogue
+Zhui'Ol,Human,Ranger
+Alfred Mcwizbang,Gnome,Wizard
+Tazliel,Dwarf,Bard
+Kana'An Bloodhorn,Orc,Bard
+Kieran,Human,Paladin
+Devin Highhill,Halfling,Cleric
+Chance,Dragonborn,Rogue
+Jayden Angelesc,Human,Ranger
+Daylan,Halfling,Barbarian
+Pfibe Pfindlebrick,Gnome,Rogue
+Donn Weller,Human,Ranger
+Valiss Truthtwister,Elf,Rogue
+Maisie Doats,Human,Rogue
+Meepo,Goblin,Cleric
+Simon Swiftfoot,Halfling,Bard
+Dubhan,Human,Wizard
+Rhogar Delmirev,Dragonborn,Bard
+Mr. Gimble,Halfling,Cleric
+Eryn,Elf,Cleric
+Samuel Belmont,Human,Fighter
+Lisette,Human,Rogue
+Grellis Liadon,Elf,Wizard
+Elza,Elf,Druid
+Dala Pewter,Human,Cleric
+Remi Twostep,Halfling,Fighter
+Rascal Wince,Human,Bard
+Gnygen The Gnomish Gnecromancer,Gnome,Wizard
+Lirianthalas,Elf,Ranger
+Mirellia Wolfsbane,Human,Ranger
+Zook Stumbleduck,Gnome,Cleric
+Leumas Brighthollow,Elf,Ranger
+Mundur Lungtruffle,Dwarf,Barbarian
+Gabbro Eelstooth,Dwarf,Rogue
+Ankita Rocha,Orc,Rogue
+Saebriel,Elf,Wizard
+Swarthabliatus Marzelbaum,Tiefling,Paladin
+Cordelia Fletcher,Human,Wizard
+Julian Nightingale,Human,Bard
+Mads Havoc,Human,Rogue
+Lyle Greenbottle,Halfling,Rogue
+Dave Barrowhill,Halfling,Bard
+Moss,Gnome,Wizard
+Archimedes,Elf,Wizard
+Beka Autumncrop,Halfling,Rogue
+Gritsel,Gnome,Rogue
+Ozark,Human,Bard
+Crispian Bontyr,Human,Rogue
+Delsura Eruvan,Elf,Rogue
+Clopen,Human,Fighter
+Mirabelle Althrin,Human,Cleric
+Lina Tealeaf,Halfling,Rogue
+Aoth Demir,Human,Rogue
+Rea,Human,Bard
+Lily,Human,Bard
+Emgeri,Human,Ranger
+Drumlin Bloodknuckle,Dwarf,Barbarian 
+Frandr,Human,Rogue
+Athel Carver,Human,Paladin
+Chaelra Del Ciudad,Human,Rogue
+Thane William Of Westfall,Human,Fighter
+Big John Steadly,Dwarf,Ranger
+Llewellyn Oth Cewan,Human,Wizard
+Mighty Boris,Human,Barbarian
+Tamora Rageskull,Dragonborn,Barbarian
+Macbethu,Human,Rogue 
+Kokin Twice-Born,Human,Druid
+Ead Carver,Human,Wizard
+Oellentia,Human,Cleric
+Inge Puentos,Human,Wizard
+Sylatria,Elf,Wizard
+Parsentyn,Human,Ranger
+Yergen Thewenweld,Dwarf,Fighter
+Uathsaye Nodellian,Elf,Fighter
+Duthal Firyn,Elf,Wizard
+Ham Goodchild,Halfling,Cleric
+Desdemona Gray,Human,Wizard
+Blodwen Brighthelm,Human,Cleric
+Sora,Dragonborn,Cleric
+Rune Stendahl,Human,Fighter
+Bink Greppick,Gnome,Wizard
+Annoura Dumein,Human,Rogue
+Vortix,Gnome,Wizard
+Belathore Skywind,Human,Wizard
+Sasha,Goblin,Rogue
+Daniel Marshmallow,Human,Fighter
+Hjordis,Dragonborn,Barbarian
+Shim,Dwarf,Rogue
+Breeze,Human,Cleric
+Parity,Tiefling,Cleric
+Kela,Halfling,Cleric
+Page,Gnome,Fighter
+Tealia,Elf,Wizard
+Vivian Blackhart The Vi,Halfling,Fighter
+Lane Harlowe,Human,Rogue
+Galvindormu,Dragonborn,Paladin
+Eku Dustrider,Human,Cleric
+Renee Moonstar,Human,Cleric
+Dagny,Human,Ranger
+Sting,Halfling,Rogue
+Azra,Tiefling,Druid
+Legitmod The Hand Of Fate,Human,Cleric
+Mordecai Wintermane,Human,Fighter
+Keziah,Gnome,Cleric
+Imra Llorhil,Elf,Ranger 
+Stephen Swift-Arrow,Human,Ranger
+Gekka,Dragonborn,Fighter
+Rhialwynn Dreamweaver,Elf,Bard
+Melody,Tiefling,Bard
+Melantha,Elf,Druid
+Jasna,Dwarf,Cleric
+Tammi Underburrow,Halfling,Rogue
+Valdir,Human,Bard
+Orkin Eggsmasher,Orc,Fighter
+Nano Richards,Halfling,Wizard
+Hali,Dragonborn,Bard
+Kit Kenyon,Human,Rogue
+Birgir,Orc,Cleric
+Lilli Pearlwood,Gnome,Bard
+Scanlan Shorthalt,Gnome,Bard
+Pike Trickfoot,Gnome,Cleric
+Nortiln Dragonsbane,Human,Paladin
+Kashaw Vesh,Human,Cleric
+Kerrek,Human,Paladin
+Gern Blanston,Dragonborn,Wizard
+Sprigg,Gnome,Rogue
+Taako,Elf,Wizard
+Merle Highchurch,Dwarf,Cleric
+Magnus Burnsides,Human,Fighter
+Roan Wycke,Human,Rogue
+Alenia Valyss,Elf,Fighter
+Solris Cinderborn,Dwarf,Cleric
+Kelly Littlekettle,Halfling,Barbarian
+Isaac Feehan,Tiefling,Wizard
+Theresa Aldori,Human,Paladin 
+Banjax,Human,Fighter
