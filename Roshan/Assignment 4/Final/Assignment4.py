@@ -4,15 +4,21 @@ def main():
     # To Call other functions and get user input
     displayInstructions()
     displayRaceOptions()
+    # To get user input
     while True:
+        #Checking for valid input
         raceChoice = int(input("Enter choice (1 - 9): "))
         if 0 < raceChoice < 10:
+            #breaking the loop if the input is valid
             break
         print("Invalid choice. Please choose again...")
     displayClassOptions()
+    # To get user input
     while True:
+        #Checking for valid input
         classChoice = int(input("Enter choice (1 - 9): "))
         if 0 < classChoice < 10:
+            #breaking the loop if the input is valid
             break
         print("Invalid choice. Please choose again...")
     # To get user input for choosing Race
@@ -91,7 +97,7 @@ def displayClassOptions():
 
 # Function determineRace
 def determineRace(raceChoice):
-    # Validating user input from 1 to 9
+    #List of Races 
     races = [
         'Human',
         'Elf',
